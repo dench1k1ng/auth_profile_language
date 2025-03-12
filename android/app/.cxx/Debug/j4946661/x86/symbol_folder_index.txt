@@ -1,0 +1,1 @@
+/home/denis/StudioProjects/auth_profile_language/build/app/intermediates/cxx/Debug/j4946661/obj/x86

@@ -1,0 +1,2 @@
+/home/denis/StudioProjects/auth_profile_language/android/app/.cxx/Debug/j4946661/x86_64/CMakeFiles/edit_cache.dir
+/home/denis/StudioProjects/auth_profile_language/android/app/.cxx/Debug/j4946661/x86_64/CMakeFiles/rebuild_cache.dir
